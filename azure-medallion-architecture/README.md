@@ -12,7 +12,7 @@ This project sets up an Azure Data Lake with the Medallion Architecture (bronze,
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/yourusername/azure-medallion-architecture.git
+    git clone https://github.com/david-ikenna-ezekiel/terraform.git
     cd azure-medallion-architecture
     ```
 
