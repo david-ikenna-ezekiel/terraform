@@ -13,7 +13,7 @@ This project sets up an Azure Data Factory pipeline to copy data from an Azure S
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/yourusername/azure-data-factory-sql-to-adls.git
+    git clone https://github.com/david-ikenna-ezekiel/azure-data-factory-sql-to-adls.git
     cd azure-data-factory-sql-to-adls
     ```
 
